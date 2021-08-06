@@ -2,7 +2,7 @@
 
 Download twitter video with Goolge Chrome mannually.
 
-1. copy any twitter video address
+1. copy any twitter video address, right click on a video.
 ![image](https://user-images.githubusercontent.com/10022333/128453648-9f5c891c-21f7-44d5-be26-a448376893f0.png)
 
 2. In Chrome, open a new empty tab, press F12, then paste the url address.
